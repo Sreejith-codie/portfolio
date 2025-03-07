@@ -1,6 +1,6 @@
 # Hi, I'm Sreejith-codie! 👋
 
-portfolio: https://sreejith-codie.github.io/Sreejith-codie/
+portfolio: https://sreejith-codie.github.io/portfolio/
 
 Welcome to my GitHub! I'm a web developer and designer 
 

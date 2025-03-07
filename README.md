@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a web developer and designer
 ## Get in Touch
 - 📫 Email: sreejithsparkie@gmail.com
 - 🐦 Twitter/X: 
-- 🌐 Website/Blog: https://sreejith-codie.github.io/Sreejith-codie/
+- 🌐 Website/Blog: https://sreejith-codie.github.io/portfolio/
 - 💼 LinkedIn: 
 
 Thanks
